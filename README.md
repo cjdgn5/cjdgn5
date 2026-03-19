@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to connect on **LinkedIn**
 
-- 👨‍💻 All of my projects are available at [https://github.com/christianjdeguzman](https://github.com/christianjdeguzman)
+- 👨‍💻 All of my projects are available at [https://github.com/cjdgn5](https://github.com/cjdgn5)
 
 - 📫 How to reach me **christianjdguzman@gmail.com**
 
